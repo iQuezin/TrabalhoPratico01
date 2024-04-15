@@ -4,6 +4,13 @@
     list-style: none;
 }
 
+@media screen and (max-width: 768px){
+    #secoes {
+        margin-top: 10px;
+    }
+}
+
+
 .btn > a {
     text-decoration: none;
     color: black;
@@ -41,4 +48,8 @@ img {
 #redes img {
     max-width: 40px;
     margin-right: 10px;
+}
+
+#secao-2 img {
+    background-color: black;
 }
