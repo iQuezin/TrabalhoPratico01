@@ -11,3 +11,35 @@
 .btn > a:hover {
     color: white;
 }
+
+#barra_divisoria {
+    width: 95%;
+    height: 2px;
+    background-color: black;
+}
+
+img {
+    width: 240px;
+}
+
+#card_perfil a {
+    text-decoration: none;
+}
+
+#card_perfil a:hover {
+    text-decoration: underline;
+}
+
+#site a {
+    text-decoration: none;
+}
+
+#redes img {
+    width: 40px;
+    margin-right: 10px;
+    transition: 0.2s all ease;
+}
+
+#redes img:hover {
+    width: 42px;
+}
