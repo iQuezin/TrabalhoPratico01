@@ -18,12 +18,11 @@
     color: white;
 }
 .btn > a:hover {
-    color: white;
     font-weight: bold;
 }
 
 #barra_divisoria {
-    width: 95%;
+    width: 98%;
     height: 2px;
     background-color: black;
 }
@@ -55,4 +54,9 @@
 
 #secao-2 img {
     background-color: black;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
 }
