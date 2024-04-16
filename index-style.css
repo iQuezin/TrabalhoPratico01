@@ -8,15 +8,18 @@
     #secoes {
         margin-top: 10px;
     }
+
+    
 }
 
 
 .btn > a {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 .btn > a:hover {
     color: white;
+    font-weight: bold;
 }
 
 #barra_divisoria {
@@ -53,8 +56,3 @@
 #secao-2 img {
     background-color: black;
 }
-
-.carousel-inner > .carousel-item > img {
-    width: 900px;
-    height: 400px; 
-  }
