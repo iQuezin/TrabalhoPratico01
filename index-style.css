@@ -53,3 +53,8 @@ img {
 #secao-2 img {
     background-color: black;
 }
+
+.carousel-inner > .carousel-item > img {
+    width: 900px;
+    height: 400px; 
+  }
