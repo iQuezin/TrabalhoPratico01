@@ -41,6 +41,10 @@ footer{
     bottom: 0;
 }
 
+#bootstrap {
+    background-color: rgb(36, 11, 59);
+}
+
 @media screen and (max-width: 768px){
     #secoes {
         margin-top: 10px;
